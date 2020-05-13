@@ -7,3 +7,4 @@ D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgo
 D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.csproj.GenerateResource.Cache
 D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.exe
 D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.pdb
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.Form1.resources
