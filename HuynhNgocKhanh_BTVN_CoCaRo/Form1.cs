@@ -16,5 +16,10 @@ namespace HuynhNgocKhanh_BTVN_CoCaRo
         {
             InitializeComponent();
         }
+
+        private void initMyComponent()
+        {
+            //Viet Dep trai
+        }
     }
 }

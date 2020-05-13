@@ -1,1 +1,9 @@
 F:\Bài tập Phát triển PM và ứng dụng thông minh\HuynhNgocKhanh_BTVN_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\bin\Debug\HuynhNgocKhanh_BTVN_CoCaRo.exe.config
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\bin\Debug\HuynhNgocKhanh_BTVN_CoCaRo.exe.config
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\bin\Debug\HuynhNgocKhanh_BTVN_CoCaRo.exe
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\bin\Debug\HuynhNgocKhanh_BTVN_CoCaRo.pdb
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.Properties.Resources.resources
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.csproj.GenerateResource.Cache
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.exe
+D:\Project\C#\[Git]Khanh\BT_CoCaRo\HuynhNgocKhanh_BTVN_CoCaRo\obj\Debug\HuynhNgocKhanh_BTVN_CoCaRo.pdb
